@@ -1,4 +1,4 @@
 thrift-boilerplate-rb
 =====================
 
-A Ruby thrift project template for building a professional thrift service.
+A thrift project template for building a professional thrift service in Ruby.
